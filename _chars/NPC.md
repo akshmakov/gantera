@@ -1,11 +1,10 @@
----
-title: Non Player Characters
+# Non Player Characters
 ---
 
 List of known NPC's and their capabilities
 
 
-## Faction: Creserates of Jano
+# Faction: Creserates of Jano
 ### Royalty and Council
 - Magistrate Riobard Doma
 - Prince Arlan Biero
@@ -35,21 +34,15 @@ List of known NPC's and their capabilities
 - Sea Merchant Masood Salameh 
 - Estate Architect Evodio de Rossi 
 - Marson 'Stamerson' Stammaul
-
-### Palehoney Oasis
-
+### Palehoney Oasis / The Lushardin
+- Naia Colt
 ### Samarrah's House of Grains
 - Deo Samara
 
+### The Aces
+- Elduin Cydel Xildan
 
-## Faction: Citizens of Armden
-- Marla Beerling
-- Collund 'Cocksduck' Olluck
-- Wilfird Fenburg
-- Aldric Selenard
-- Sam Fulligar
-
-## Faction: The Dominion of Garwind
+# Faction: The Dominion of Garwind
 - Sira Frederica Garmund 
 - King Solinde Tempest
 - Grand Empress Silvara Tempest
@@ -65,20 +58,37 @@ The Righteous Queen, Conquerer of Sinners
 - Minister of Treasures Sir Murtin Koynn
 - Minister of Diplomacy Sir Litario Raphael
 - Minister of Code Zolgod Viskota
-
-
+### Sapphire Knights
+- Sir Perinnet the Sentinel
+- Sira Josselyn the Resolute
+- Sir Lance Beauregard
 ### Military Armies
 - The Sapphire Knights
-Sir Perinnet the Sentinel
-Sira Josselyn the Resolute
-
 - The Azure Guard 
 - The Zircon Guard 
 - The Pearl Fleet
 - Templars of Order
-Templar Lance Beauregard
 - Garswords 
 
+##  Citizens of Armden
+- Marla Beerling
+- Collund 'Cocksduck' Olluck
+- Wilfird Fenburg
+- Aldric Selenard
+- Sam Fulligar
+
+## Lesser Faction: Lawmasters of the Five Radiant Doyan
+- Esquire Doyan Katia Bianchi
+
+## Lesser Faction: The Silent Whisperers
+- The Drowned One
+- Kor Strongfoot
+- Ragna Montbarron
+- Poison Katie
+- Mistress Elita Dar
+- Tozhug Wurthax
+- Glatdrac Bonegrip
+- Dresalinda Allenil
 
 ## Lesser Faction: The Brashers
 - Sir Felix Darrow
@@ -94,78 +104,47 @@ Templar Lance Beauregard
 ## Faction: Unknown
 - Bounty Hunter Accia
 - Jeflan Frent
+- 'Oleck 'The Red Hand' Kold
 
-
+# Other Factions
 ## Faction: The Red Rogues of the Sunset
 - Edvingard Devonshire 
 - Barberi Devonshire
-
 ## Faction: Illanor's Reform Enclave
+- Unknown
 ## Faction: Stormcliff City of Mirthal
+- Mirstone Nostoc Mercer: Thunder King, The Golden Protector, Elf Smasher
+- Greymountain Swolgen Ironmaul
 ## Faction: Thalewood Motte
 ## Faction: Sajh Beh Jind
 - Drog Xomath 
 ## Faction: Republic of Kovendoor
 - King Illanor
 - Prince Kiloriel
+- Mystic Asheron Kilafeen
 - High Priest Larael Nerikas
-- Yondra Ildyria
-
+- Yondra Ildyri
 ### Military Armies
 - Elari Trin
 - Ilyrin Trin
-
 ## Faction: The Lowlands
 - Elder Philibert Holklore 
 
-## Faction: The Silent Whisperers
-- The Drowned One
-- Kor Strongfoot
-- Ragna Montbarron
-- Poison Katie
-- Mistress Elita Dar
-- Tozhug Wurthax
-- Glatdrac Bonegrip
-- Dresalinda Allenil
+# Bosses (chronologically)
+### Jaxithor
+### Grumpkins
+### Poison Katie
+### Mysterious Serpent Demon
+### Abomination Acid Ogre
+### Mistress Elita Dar
+### Tozhug Wurthax
+### Sentinel Christopher Sighorn 
+### Bounty Hunter Accia
+### Lordon Heartsmure
+### Zydia Wyndil 
+### Oracle Xantusk
+### Sir Felix Darrow
+### The Black Knight
+### Esquire Doyan Katia Bianchi
 
-
-
-
-- 'Oleck 'The Red Hand' Kold
-
-## Faction: Lawmasters of the Five Radiant Doyan
-- Esquire Doyan Katia Bianchi
-
-
-
-
-Mirstone Nostoc Mercer
-Thunder King: The Stormcliff City of Mirthal
-The Golden Protector, Elf Smasher
-### Circle of the Zephyr
-Greymountain Swolgen Ironmaul
-
-Magistrate Riobard Doma
-
-Mystic Asheron Kilafeen
-
-
-The Drowned One
-The Silent Whisperers
-
-## Bosses
-Jaxithor
-Grumpkins
-Poison Katie
-Abomination Acid Ogre
-Mysterious Serpent Demon
-Mistress Elita Dar
-Tozhug Wurthax
-Bounty Hunter Accia
-Lordon Heartsmure
-Zydia Wyndil 
-Oracle Xantusk
-The Black Knight
-Sentinel Christopher Sighorn 
-Sir Felix Darrow
 
