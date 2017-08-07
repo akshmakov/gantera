@@ -11,7 +11,7 @@ Introduction to the World of Gantera
 # The Dominion of Garwind
 Race: Humans
 Ruler: Empress Silvara Tempest, 
-Government: Military Monarchy
+/n Government: Military Monarchy
 Capital: Aerem Sanctum
 Town: Armden
 Town: Port Astia
