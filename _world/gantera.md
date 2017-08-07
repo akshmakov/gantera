@@ -9,15 +9,34 @@ Introduction to the World of Gantera
 
 ## Locations
 # The Dominion of Garwind
-Race: Humans
-Ruler: Empress Silvara Tempest, 
-/n Government: Military Monarchy
-Capital: Aerem Sanctum
-Town: Armden
-Town: Port Astia
+Type | Name | Description
+--- | --- | ---
+Race | 85% human, 10% orc, 5% other | Orcs are slaves
+Ruler | Grand Empress Silvara Tempest | At the age of 16, her crushing blow to the Red Rogues earned her the right to the throne over her older brother - Waynard the Swift
+Government | Service Monarchy / Military Rule | Militaristic Holy Empire of Humans
+Banner | Flying Dragon | White on Blue
+Saying | Blessing | Zephyria bless us!, May the Wind guide you, Long reign the Queen Tempest!
+Saying | Curse | I shall end you Swiftly, Blightened heathen
+Deity | Zephyria | Goddess who united the Kingdoms of Gantera
+Capital | Zephuros Castle - Aerem Sanctus | Largest city in the Human Dominion. Near Akehian and Armden.
+Town | Armden | Central North Trade Town. Staring town of the PCs. 
+Tavern | The Iron Cask | Home to Sam Fulligar and Marla Beerling. Event: The Armden Arson
+Town | Astia | North Port Town. Brashers 2nd hideout. 
+Inn | The Three Cots | Modest inn where Accia was slain by the party. Event: Slayer of Women.
+Town | Arshinde | South Town in the Mountains of Arshin. Event: The Queen's Purge.
+Town | Attilan | South Coast Port Town.
+Town | Akehian | East Town outside of Aerem Santus.
+
 # The Emerald Forest
-# Trade City Jano
-Race: Humans
+- The Forest that separates Garwind and Jano / The Lowlands
+- The original hideout of the Brashers was a mystical underground sanctuary that possessed spheres of essence
+- Appearance and activity of strange creatures has increased dramatically
+
+# Creserates of Jano
+Type | Name | Description
+--- | --- | ---
+Race | 75% human, 10% elf, 5% halfling / orc | 
+
 # The Ironcliffs of Mirthal 
 Race: Dwarves
 # Enclave of Kovendoor
