@@ -37,7 +37,7 @@ List of known NPC's and their capabilities
 ### Palehoney Oasis / The Lushardin
 - Naia Colt
 ### Samarrah's House of Grains
-- Deo Samara
+- Deo Samarrah
 
 ### The Aces
 - Elduin Cydel Xildan
