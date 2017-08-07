@@ -3,7 +3,8 @@
 ## The Insurgent Six
 Affiliation: Agents of the Prolitariat Confederation
 * Hired by Apothecary Bannard Cayne
-Affiliation: Defenders of Jano
+## Foreign Defenders
+Affiliation: Royality of Jano
 * Title and Bastion presented after trial by Prince Arlan Biero
 
 # The Current Cast (alphabetical)
