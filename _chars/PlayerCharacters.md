@@ -15,6 +15,8 @@ Affiliation: Defenders of Jano
 - Weapon 1: Longbow
 - Weapon 2: Dagger
 - Weapon 3: 
+### Critical Wounds
+- Book 1, Chapter 2 - Scarring of the face from Cave Slimes
 ### NPC relations
 - Alberran Titania: Foster father who raised Janier as a woodsman and trader. Killed in the Execution in Armden under General Cedalia Cheraes's Order.
 - Foridan Titania: Foster brother. Compared to Janier, he's better at sales, but worse at hunting. His presence is unknown.
@@ -26,6 +28,7 @@ Affiliation: Defenders of Jano
 ### Boss Kills
 - Sir Felix Darrow: Book 1, Chapter 11 - Arrow to the throat
 
+
 ## Jacque the Druid 
 - Description:
 - Backstory:
@@ -33,6 +36,9 @@ Affiliation: Defenders of Jano
 - Weapon 1: Lighting Spells - Oracle Staff
 - Weapon 2: Scythe
 - Weapon 3: Bolas
+### Critical Wounds
+- Book 1, Chapter 11 - Incineration of Animal form from Sir Felix Darrow
+- Book 1, Chapter 11 - Explosion of Caltrop Bridge from Sir Felix Darrow
 ### NPC relations
 - Prioress Catalina: 
 - Hasahiem:
@@ -47,6 +53,8 @@ Affiliation: Defenders of Jano
 - Weapon 1: Acid Spells - Innate
 - Weapon 2: Words and Wits
 - Weapon 3: Dagger
+### Critical Wounds
+- Book 1, Chapter 11 - Explosion of Caltrop Bridge from Sir Felix Darrow
 ### NPC relations
 - Marla Beerling:
 - Prioress Clara: 
@@ -62,6 +70,8 @@ Affiliation: Defenders of Jano
 - Weapon 1: Warclan Greataxe
 - Weapon 2: +1 Longsword
 - Weapon 3: Poison Katie's Dagger
+### Critical Wounds
+- Book 1, Chapter 11 - Charred Arms from Acid Vial Sacrifice to end The Black Knight
 ### NPC relations
 - Brother Kaan:
 - Collund Ollock:
@@ -79,6 +89,8 @@ Affiliation: Defenders of Jano
 - Weapon 1: Greatsword
 - Weapon 2: Father's Bastard Sword
 - Weapon 3: Shorbow
+### Critical Wounds
+- Book 1, Chapter 10 - Corruption from choosing evil against Paladin Lordon Heartsmure
 ### NPC relations
 - Marla Beerling: 
 - Collund Ollock:
@@ -86,5 +98,5 @@ Affiliation: Defenders of Jano
 ### Boss Kills
 - Brasher Jaxithor 'Blade' - Book 1, Chapter 3 - Piereced stomach with Greatword
 - Bounty Hunter Accia - Book 1, Chapter 9 - Piereced through the sternum with Bastard Sword
-- Paladin Lordon Heartsmure - Book 1, Chapter 10 - Chose evil and impaled under plate mail with Bastard Sword
+- Paladin Lordon Heartsmure - Book 1, Chapter 10 - Impaled through plate mail with Bastard Sword
 
