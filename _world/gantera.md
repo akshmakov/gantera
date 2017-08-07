@@ -1,7 +1,3 @@
----
-title: Gantera
----
-
 Introduction to the World of Gantera
 
 # History
@@ -11,7 +7,7 @@ Introduction to the World of Gantera
 # The Dominion of Garwind
 Type | Name | Description
 --- | --- | ---
-Race | 85% human, 10% orc, 5% other | Orcs are slaves
+Race | 85% human, 10% orc, 5% other | Orcs are slaves, the weak and disobedient are severely punished
 Ruler | Grand Empress Silvara Tempest | At the age of 16, her crushing blow to the Red Rogues earned her the right to the throne over her older brother - Waynard the Swift
 Government | Service Monarchy / Military Rule | Militaristic Holy Empire of Humans
 Banner | Flying Dragon | White on Blue
@@ -35,7 +31,14 @@ Town | Akehian | East Town outside of Aerem Santus.
 # Creserates of Jano
 Type | Name | Description
 --- | --- | ---
-Race | 75% human, 10% elf, 5% halfling / orc | 
+Race | 75% human, 10% elf, 5% other | Slavery is forbidden, prostitution is legal
+Ruler | Magistrate Riobard Doma | Until Prince Arlan Biero reaches of Age and Status, the Magistrate oversees the well-being of Jano. He is guided by Conselor Dorinn Prardendik and Retainer Shydon Garamonde.
+Government | Mercantilism Monarchy | City State
+Banner | Cresent Moon over Sea and Sand | Yellow and Green
+Deity | Sarenrae | The Dawnlight Goddess of Good, Justice, and Redemption
+Deity | Umbrio | Leader who withstood the Garwind Invasion
+Deity | Rollo | Leader who withstood the Assault of the Orcs
+
 
 # The Ironcliffs of Mirthal 
 Race: Dwarves
