@@ -90,7 +90,7 @@ List of known NPC's and their capabilities
 - Ragna Montbarron
 - [DECEASED] Poison Katie
 - [DECEASED] Mistress Elita Dar
-- Tozhug Wurthax
+- [DECEASED] Tozhug Wurthax
 - Glatdrac Bonegrip
 - Dresalinda Allenil
 
@@ -102,11 +102,11 @@ List of known NPC's and their capabilities
 
 ## Lesser Faction: The People's Avengeance
 - Oracle Xantusk: formerly Sagacious Foreign Counselor to the Kovendoor Republic
-- Sir Lordon Heartsmure: formerly Paladin of the Dawnlight Goddess: Sarenrae
-- Zydia Wyndil: formerly 2nd Watchguard of the Moonriders
+- [DECEASED] Sir Lordon Heartsmure: formerly Paladin of the Dawnlight Goddess: Sarenrae
+- [DECEASED] Zydia Wyndil: formerly Watchguard of the Moonriders
 
 ## Faction: Unknown
-- Bounty Hunter Accia
+- [DECEASED] Bounty Hunter Accia
 - Jeflan Frent
 - 'Oleck 'The Red Hand' Kold
 
@@ -121,10 +121,10 @@ List of known NPC's and their capabilities
 - Greymountain Swolgen Ironmaul
 ## Faction: Thalewood Motte
 ## Faction: Sajh Beh Jind
-- Drog Xomath 
+- [DECEASED] Drog Xomath 
 ## Faction: Republic of Kovendoor
-- King Illanor
-- Prince Kiloriel
+- [DECEASED] King Illanor
+- [DECEASED] Prince Kiloriel
 - Mystic Asheron Kilafeen
 - High Priest Larael Nerikas
 - Yondra Ildyri
