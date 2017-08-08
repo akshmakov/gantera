@@ -27,6 +27,7 @@ List of known NPC's and their capabilities
 - Setinel Isadorae Sophia Gucciano:
 - Setinel Alessio Campden: 2nd Lieutenant and friend of Christopher Sighorn
 - Setinel Edward Lamberini:
+- Setinel Bartolo Ormidolla:
 ### Merchants
 - Nelo Furdi: Merchant Carpenter 
 - Iano Furdi: Witness of Sighorn Murder, 
