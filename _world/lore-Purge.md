@@ -1,5 +1,5 @@
 ---
-title: lore2
+title: The Purging
 ---
 
 # Ganteran Tales from the Past
