@@ -17,7 +17,7 @@ List of known NPC's and their capabilities
 - Apothecary Bannard Cayne
 - Galina Everbre
 - Setinel Isadorae Sophia Gucciano
-- <DECEASED> Mistress Elita Dar: 
+- <DECEASED> Mistress Elita Dar:
 ### Holina Cathedral
 - Brother Kaan
 - Prioress Clara
