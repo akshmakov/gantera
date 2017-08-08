@@ -1,3 +1,7 @@
+---
+title: Story Progress
+---
+
 # Book 1: The Discovery of Ganteran Justice
 ## Chapter 1: The Raid of Armden
 - Kor Strongfoot and Wilfird Fenberg killed, The Drowned One will seek revenge on all who failed/fled
