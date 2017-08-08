@@ -38,6 +38,7 @@ Affiliation: Royality of Jano
 - Weapon 2: Scythe
 - Weapon 3: Bolas
 ### Critical Wounds
+- Book 1, Chapter 5 - Succumb to wound from Acid Ogre Abomination and Serpent Demon
 - Book 1, Chapter 11 - Incineration of Animal form from Sir Felix Darrow
 - Book 1, Chapter 11 - Explosion of Caltrop Bridge from Sir Felix Darrow
 ### NPC relations
@@ -55,7 +56,6 @@ Affiliation: Royality of Jano
 - Weapon 2: Words and Wits
 - Weapon 3: Dagger
 ### Critical Wounds
-- Book 1, Chapter 5 - Succumb to wound from Acid Ogre Abomination and Serpent Demon
 - Book 1, Chapter 11 - Explosion of Caltrop Bridge from Sir Felix Darrow
 ### NPC relations
 - Marla Beerling:
