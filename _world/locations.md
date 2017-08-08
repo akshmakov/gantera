@@ -47,7 +47,7 @@ Town | Akehian | East Town outside of Aerem Santus.
 Type | Name | Description
 --- | --- | ---
 Race | 75% human, 10% elf, 5% other | Slavery is forbidden, prostitution is legal
-Ruler | Magistrate Riobard Doma | Until Prince Arlan Biero reaches of Age and Status, the Magistrate oversees the well-being of Jano. He is guided by Conselor Dorinn Prardendik and Retainer Shydon Garamonde.
+Ruler | Magistrate Riobard Doma Biero | The Magistrate and his son Prince Arlan Biero oversees the commerce of Jano. He is guided by the parlimentary Chamber of Merchants which may include the unseen Counselor Dorinn Prardendik and the Retainer Shydon Garamonde.
 Government | Mercantilism Monarchy | City State
 Banner | Cresent Moon over Sea and Sand | Yellow and Green
 Deity | Sarenrae | The Dawnlight Goddess of Good, Justice, and Redemption
