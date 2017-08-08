@@ -2,6 +2,8 @@
 title: lore2
 ---
 
+# Ganteran Tales from the Past
+
 ## Garwind Decree of Purity, Edict 74a: No Quarry to the Wicked, The Purging 
 *T*he Dominion of Garwind ruled over the realm for almost a thousand years. With its abundant fertile lands and flowing tribune, the growing Dominion diverted much of its resources to the expansion and preservation of might. Praising servicemen and war heroes beyond folklore and tales, Garwind adopted a democracy of military rule, wherein only those who served in the military earned the right to vote and hold political office. While many trades and practices were deemed prestigious, none were as revered as service in the military. 
 
