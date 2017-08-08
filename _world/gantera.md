@@ -40,8 +40,8 @@ Ruler | Magistrate Riobard Doma | Until Prince Arlan Biero reaches of Age and St
 Government | Mercantilism Monarchy | City State
 Banner | Cresent Moon over Sea and Sand | Yellow and Green
 Deity | Sarenrae | The Dawnlight Goddess of Good, Justice, and Redemption
-Deity | Umbrio | Leader who withstood the Garwind Invasion
-Deity | Rollo | Leader who withstood the Assault of the Orcs
+Historical Figure | Umbrio | Leader who withstood the Garwind Invasion
+Historical Figure | Rollo and Gisella | Leaders who withstood the Assault of the Orcs
 
 
 # The Ironcliffs of Mirthal 
