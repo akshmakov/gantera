@@ -50,7 +50,7 @@ List of known NPC's and their capabilities
 - Sira Frederica Garmund 
 - King Solinde Tempest: 
 - King Waynard Ryder Tempest
-- Grand Empress Silvara Tempest: known as The Righteous Queen, Conquerer of Sinners
+- Grand Empress Silvara Tempest: known as The Righteous Queen, The Queen that Ended Two Kings, Conquerer of Sinners
 ### Circle of the Zephyr
 - Grand Marshall Sir Waynard Ryder Tempest
 - General Sir Keveland Oxworth
