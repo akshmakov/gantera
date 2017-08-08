@@ -1,3 +1,7 @@
+---
+title: Player Characters
+---
+
 # The Party
 
 ## The Insurgent Six
