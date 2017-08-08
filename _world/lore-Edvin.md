@@ -1,5 +1,5 @@
 ---
-title: lore2
+title: Edvin the Cle(a)ver
 ---
 
 # Ganteran Tales from the Past
