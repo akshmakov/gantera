@@ -17,13 +17,13 @@ List of known NPC's and their capabilities
 - Apothecary Bannard Cayne
 - Galina Everbre
 - Setinel Isadorae Sophia Gucciano
-- <DECEASED> Mistress Elita Dar:
+- [DECEASED] Mistress Elita Dar:
 ### Holina Cathedral
 - Brother Kaan
 - Prioress Clara
 - Prioress Catalina
 ### Creserate Sentinel (guards)
-- <DECEASED> Captain Sentinel Christopher Umbrio Sighorn: Leader in the Creserate Sentinels, Philanthropist to the Holina Orphanage
+- [DECEASED] Captain Sentinel Christopher Umbrio Sighorn: Leader in the Creserate Sentinels, Philanthropist to the Holina Orphanage
 - Setinel Isadorae Sophia Gucciano:
 - Setinel Alessio Campden: 2nd Lieutenant and friend of Christopher Sighorn
 - Setinel Edward Lamberini:
@@ -86,19 +86,19 @@ List of known NPC's and their capabilities
 
 ## Lesser Faction: The Silent Whisperers
 - The Drowned One
-- <DECEASED> Kor Strongfoot
+- [DECEASED] Kor Strongfoot
 - Ragna Montbarron
-- <DECEASED> Poison Katie
-- <DECEASED> Mistress Elita Dar
+- [DECEASED] Poison Katie
+- [DECEASED] Mistress Elita Dar
 - Tozhug Wurthax
 - Glatdrac Bonegrip
 - Dresalinda Allenil
 
 ## Lesser Faction: The Brashers
-- <DECEASED> Sir Felix Darrow
+- [DECEASED] Sir Felix Darrow
 - Blue Eyed Rachel (Leeds)
-- <DECEASED> Noah Leeds
-- <DECEASED> Grumpkins
+- [DECEASED] Noah Leeds
+- [DECEASED] Grumpkins
 
 ## Lesser Faction: The People's Avengeance
 - Oracle Xantusk: formerly Sagacious Foreign Counselor to the Kovendoor Republic
