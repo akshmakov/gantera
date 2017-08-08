@@ -1,5 +1,5 @@
 ---
-title: NPC
+title: Non Player Characters
 ---
 
 # Non Player Characters
