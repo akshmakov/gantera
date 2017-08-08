@@ -1,5 +1,5 @@
 ---
-title: The Unification War
+title: Legend of the Storm and Blight
 ---
 
 # Ganteran Tales from the Past
