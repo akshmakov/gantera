@@ -7,8 +7,9 @@ List of known NPC's and their capabilities
 
 
 # Faction: Creserates of Jano
-### Royalty and Council
-- Magistrate Riobard Doma
+### Ruler
+- Magistrate Riobard Doma Biero
+### Chamber of Merchants 
 - Prince Arlan Biero
 - Retainer and Tori Tracker Shydon Garamonde
 - llustrious Adjudicator Dorinn Prardendik
@@ -45,11 +46,11 @@ List of known NPC's and their capabilities
 - Elduin Cydel Xildan
 
 # Faction: The Dominion of Garwind
+### Ruler
 - Sira Frederica Garmund 
-- King Solinde Tempest
-- Grand Empress Silvara Tempest
-Queen: The Dominon of Garwind
-The Righteous Queen, Conquerer of Sinners
+- King Solinde Tempest: 
+- King Waynard Ryder Tempest
+- Grand Empress Silvara Tempest: known as The Righteous Queen, Conquerer of Sinners
 ### Circle of the Zephyr
 - Grand Marshall Sir Waynard Ryder Tempest
 - General Sir Keveland Oxworth
