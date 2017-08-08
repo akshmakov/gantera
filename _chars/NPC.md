@@ -1,6 +1,8 @@
-# Non Player Characters
+---
+title: Non Player Characters
 ---
 
+# Non Player Characters
 List of known NPC's and their capabilities
 
 
