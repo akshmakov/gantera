@@ -1,5 +1,5 @@
 ---
-title: Gantera
+title: locations
 ---
 
 Introduction to the World of Gantera
