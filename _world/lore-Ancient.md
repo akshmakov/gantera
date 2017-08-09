@@ -2,9 +2,11 @@
 title: The Ancient Ones
 ---
 
-Introduction to the World of Gantera
+# Ganteran Tales from the Past
 
-The Ancient and the Primal, Birth of the 5 Kingdoms
+## The Ancient and the Primal, Birth of the 5 Kingdoms
+### Origin: Ganteran Lore
+
 ### Long forgotten lore tells of the Ancient Ones...
 who inherited the world from the Primal Beings. Though their origin is not known, the Ancient Ones enslaved and experimented on the Primals. The Primals were not seen as intelligent beings but rather as objects or livestock for the Ancient One’s desires.  The Ancient Ones possessed a lust for curiosity and discovery, allowing them to unveil mysteries of the universe. They learned to manipulate natural elements: shaping and misshaping life. They infused sensations, abilities, and emotions into creatures, including the Primals. They even built the world through emerging vast landscapes and grand structures. They created magic. 
 
