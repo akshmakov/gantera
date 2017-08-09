@@ -4,7 +4,7 @@ title: The Ancient Ones
 
 # Ganteran Tales from the Past
 
-## The Ancient and the Primal, Birth of the 5 Kingdoms
+## The Ancient and the Primal, Birth of the 5 Kingdoms, Fallen Knight to Risen Empire
 ### Origin: Ganteran Lore
 
 ### Lore from the forgotten era tells of the Ancient Ones...
