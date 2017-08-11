@@ -10,6 +10,9 @@ Affiliation: Agents of the Prolitariat Confederation
 ## The Honorous and Brave Foreign Defenders
 Affiliation: Royality of Jano
 * Title and Bastion presented after trial by Prince Arlan Biero
+## The Armden Arsonists
+Affiliation: Dominion of Garwind
+* Wanted bounty proliferated from Armden and throughout the Dominion
 
 # The Current Cast (alphabetical)
 
