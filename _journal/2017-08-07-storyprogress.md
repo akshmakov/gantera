@@ -185,8 +185,9 @@ title: Story Progress
 - Katia Bianchi attempts to castigate the party as viscious murderers but the party is able to justify their cause
 - Defamatory evidence: Mira/Janier/party killed Sighorn in public - 2 testamonies (Mira + Iano)
 - Defamatory evidence: Janier rip off face of Bandit leader and wore it
-- Defamatory evidence: Ragna slain Paladin of Sarenrae with evil sword
 - Defamatory evidence: No evidence to deny Armden Arson
+- Defamatory evidence: Ragna slain Paladin of Sarenrae with evil sword
+- Defamatory evidence: Ragna has scars, darkened veins, and bizarre markings on body
 - Defamatory evidence: Party left Oracle Xantusk, an imporant council ambassador, to die
 - Adjudicator Prardendik charges them guilty of murder, but justifies their cause
 - Bannard Cayne congratulates party for victory and not revealing the Prolitariat Confederation
