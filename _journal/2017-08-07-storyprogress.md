@@ -174,7 +174,7 @@ title: Story Progress
 - Ragna overdrinks and becomes poisoned
 - Ragna manages to contact farmers with Cayne's help
 - Johnny speaks with a soldier at the Palehoney Oasis to find they are common people
-## Chapter 2: Propaganda fails to Justice
+## Chapter 2: Propaganda Fails; Justice Prevails
 - Party meets with Isadorae who is with guards Alessio and Bartolo
 - Alessio doesn't want to cooperate but Bartolo believes in justice
 - Cayne hastily gathers clothes for the trial
