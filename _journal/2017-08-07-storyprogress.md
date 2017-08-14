@@ -163,4 +163,32 @@ title: Story Progress
 - Johnny rejects Prioress Clara pennance even after seeing the power of Sarrenrae
 - Ragna bursts into Holina Cathedral and requests cleansing, experiences darkness and ghostly visages but accepts Sarrenrae's help
 - Insurgent Six makes their way to meet Isadorae and Alessio
+## Chapter 1 Interlude: Individual Paths
+- Janier works for Nelo Furdi and treats his crew to drinks
+- Janier gets close to Iano Furdi and reveals that she did commit the crime but she did for a just cause
+- Janier considers Brother Kaan's path of contrition
+- Janier receives Brother Kaan's support due to her dedication to Mira and aspiration to seek truth/justice
+- Janier retrieves lost criminal records of Sentinal Sighorn
+- Ragna revisits Samarrah's and meets a mysterious rich man
+- Ragna inquires details about job which is not very mercenary-like
+- Ragna overdrinks and becomes poisoned
+- Ragna manages to contact farmers with Cayne's help
+- Johnny speaks with a soldier at the Palehoney Oasis to find they are common people
+## Chapter 2: Propaganda fails to Justice
+- Party meets with Isadorae who is with guards Alessio and Bartolo
+- Alessio doesn't want to cooperate but Bartolo believes in justice
+- Cayne hastily gathers clothes for the trial
+- Party leaves all weapons and armor with the innkeeper except Jacque brings the Oracle Xantusk's staff
+- Ragna places his cursed sword into a holy coffin and drains is energy
+- Janier receives and shares a royal sealed-note from a boy to meet Queen Empress Tempest herself
+- Party admits to murdering Christopher Sighorn
+- Katia Bianchi attempts to castigate the party as viscious murderers but the party is able to justify their cause
+- Defamatory evidence: Mira/Janier/party killed Sighorn in public - 2 testamonies (Mira + Iano)
+- Defamatory evidence: Janier rip off face of Bandit leader and wore it
+- Defamatory evidence: Ragna slain Paladin of Sarenrae with evil sword
+- Defamatory evidence: No evidence to deny Armden Arson
+- Defamatory evidence: Party left Oracle Xantusk, an imporant council ambassador, to die
+- Adjudicator Prardendik charges them guilty of murder, but justifies their cause
+- Bannard Cayne congratulates party for victory and not revealing the Prolitariat Confederation
+- Prince Arlan Biero grants the party title of Foreign Defenders of Jano and the Bastion of Umbrio - 20 servants and 5 guards
 
