@@ -192,4 +192,23 @@ title: Story Progress
 - Adjudicator Prardendik charges them guilty of murder, but justifies their cause
 - Bannard Cayne congratulates party for victory and not revealing the Prolitariat Confederation
 - Prince Arlan Biero grants the party title of Foreign Defenders of Jano and the Bastion of Umbrio - 20 servants and 5 guards
+## Chapter 3 Underground Dealings
+- Party finishes meeting with Prince Biero and ventures back to Castillo di Riposo for their equipment
+- Innkeep said party already acquired personel affects
+- Janier spots a mysterious robed merchant who attempts to offer them information in exchange for a favor to 'persuade' a tax collector
+- Party is indecisive so the contact offers the name 'Mathis' in the Aces Alleyway and retreats into the darkness
+- Mira finds tracks of her heavy Greataxe in the sands and follows to the Aces
+- Party splits, Ragna and Janier inquire about the 'Pits' arena and Ragna wins the first round after taking a heavy beating
+- Johnny and Jacque and Mira enter through the back and have a meeting with an unnamed merchant selling rare weapons
+- Party reconvenes and splits again, Ragna and Janier threaten a gambler at the Aces and are kicked out
+- Johnny and Jacque meet Lyla Reynolds and strike a deal with Captain Elduin Cydel Xildan: kill Rutley Bulgus in the Death Arena 10000 GP
+- Mira goes to the Bastion of Umbrio to rest but encounters Janica Sighorn and dismisses her
+- Mira fires all the staff on strike and takes a long rest in the Master Suite
+- Jacque is approached by a woman he doesn't recognize named 'Cardi' who demands he returns to the Akehian Institute with her
+- He eventually remembers that he accidentally blew up the West wing in the Institute with her - she blames him for providing wrong ingredients
+- Jacque refuses and she challenges him to a duel - her weapon fizzes and Jacques knocks her out right before her weapon unleashes a large firebolt
+- Party convenes for dinner at the Bastion of Umbrio to discuss plan
+- Party sets out next morning to meet with Cayne/Reynolds
+- Party follows a guard describing that 'Isadorae' needs help
+- Party lead to a desolate street in the Edo district to be confronted by three Black cloaked Whisperers
 
